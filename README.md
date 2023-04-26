@@ -13,3 +13,10 @@ There are two ways to declare a string in c language.
 Reversing a string means the string that will be given by the user to your program in a specific sequence will get entirely reversed when the reverse of a string algorithm gets implemented in that particular input string.
 
 ![image](https://user-images.githubusercontent.com/125336949/234471716-bc56f4b5-ce54-4e02-ae8e-e59c4eb0c772.png)
+
+# Algorithm
+
+- Ask user to input a string to be reversed.
+- Store it in an array.
+- Calculate the length of the string by using the strlen function.
+- Apply a for loop from (counter variable= length-1) initially and decrementing the value till (counter variable>=0) , printing the array in reverse.
